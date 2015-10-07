@@ -4,7 +4,6 @@
 * admin
 * resident / user
 * guest
-* 
 
 # Implementation Options
 - HTML5, CSS3
@@ -32,6 +31,8 @@
     - *think number of key copies per house*
 * amount of history stored
     - by time [month, year]
+* number of times allowed to delete registered devices per __
+    - [e.g.] Google Music implementation
 * toggle for legacy implementation
     - [e.g.] if the community/organization is using their old system
 * toggle for no guests allowed
